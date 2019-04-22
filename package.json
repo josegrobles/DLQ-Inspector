@@ -16,7 +16,6 @@
   "license": "ISC",
   "dependencies": {
     "@liber/module-liber-auth": "^1.0.7288",
-    "@liber/systemic-azure-bus": "^1.0.9433",
     "body-parser": "1.18.3",
     "bunyan": "1.8.12",
     "chalk": "2.4.1",
@@ -40,7 +39,7 @@
     "require-all": "^3.0.0",
     "ssh2-sftp-client": "^3.1.0",
     "systemic": "^3.1.0",
-    "systemic-azure-bus": "0.0.1",
+    "systemic-azure-bus": "1.0.12406",
     "systemic-azure-metrics": "0.0.2",
     "systemic-domain-runner": "1.1.0",
     "systemic-express": "1.1.1",
